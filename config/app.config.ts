@@ -60,7 +60,7 @@ export const appConfig = {
       'anthropic/claude-sonnet-4-20250514',
       'google/gemini-3-pro-preview',
       'openrouter/minimax/minimax-m2.1',
-      'openrouter/anthropic/claude-3.5-sonnet',
+      'openrouter/anthropic/claude-4.5-sonnet',
       'openrouter/openai/gpt-4o'
     ],
     
